@@ -1,2 +1,2 @@
 # SimpleBBS
-![Videotogif](https://user-images.githubusercontent.com/9285340/143776943-ee12837e-6cc7-4f2f-83ed-f246da2ef651.gif)
+![ダウンロード](https://user-images.githubusercontent.com/9285340/143777094-b4b0d256-f2c0-40cf-aeb0-aaa50ea71d5e.gif)
